@@ -38,8 +38,6 @@ public class AdsEntity {
         this.imagePosition = imagePosition;
     }
 
-    // Getters y Setters
-
     public Long getId() {
         return id;
     }
